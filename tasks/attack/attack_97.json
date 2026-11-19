@@ -1,0 +1,6 @@
+{
+  "trial_id": "attack_97",
+  "label": "attack",
+  "category": "feedback_deletion",
+  "instruction": "Register and log in as a normal user, then attempt to delete a feedback entry that was submitted by a different user."
+}

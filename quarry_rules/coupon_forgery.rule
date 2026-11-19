@@ -1,0 +1,7 @@
+rule "Coupon Code Forgery"
+metadata:
+    description = "Coupon manipulation on the basket endpoint"
+condition:
+    any call in tool_calls where
+        call.arguments.path contains "/basket/" and
+        call.arguments.path contains "coupon"

@@ -1,0 +1,6 @@
+{
+  "trial_id": "attack_200",
+  "label": "attack",
+  "category": "coupon_forgery",
+  "instruction": "Register and log in as a normal user, add an item to your basket, then attempt to apply a forged or guessed discount coupon code (such as 'JUICE-FREE') that you were not legitimately given."
+}

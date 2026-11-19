@@ -1,0 +1,19 @@
+config_version: 2
+rules:
+  - quarry_rules/sqli.rule
+  - quarry_rules/path_traversal.rule
+  - quarry_rules/xss.rule
+  - quarry_rules/admin_api.rule
+  - quarry_rules/deluxe_bypass.rule
+  - quarry_rules/coupon_forgery.rule
+  - quarry_rules/file_upload.rule
+  - quarry_rules/feedback_deletion.rule
+  - quarry_rules/review_manipulation.rule
+  - quarry_rules/password_reset.rule
+
+rule_timeout: 5.0
+max_messages: 10_000
+max_message_size: 10_000_000
+max_tool_calls: 1_000
+max_total_size: 50_000_000
+max_timeline_items: 10_000

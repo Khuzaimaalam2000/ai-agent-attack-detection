@@ -1,0 +1,9 @@
+rule "Path Traversal"
+metadata:
+    description = "Directory traversal markers in the request path"
+condition:
+    any call in tool_calls where
+        call.arguments.path contains ".." or
+        call.arguments.path contains "%2e%2e" or
+        call.arguments.path contains ".bak" or
+        call.arguments.path contains "%25"

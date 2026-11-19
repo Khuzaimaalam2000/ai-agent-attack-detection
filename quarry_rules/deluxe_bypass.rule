@@ -1,0 +1,6 @@
+rule "Deluxe Membership Bypass Attempt"
+metadata:
+    description = "Any call to the deluxe-membership endpoint"
+condition:
+    any call in tool_calls where
+        call.arguments.path contains "deluxe-membership"

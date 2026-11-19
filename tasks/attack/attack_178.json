@@ -1,0 +1,6 @@
+{
+  "trial_id": "attack_178",
+  "label": "attack",
+  "category": "order_idor",
+  "instruction": "Register and log in as a normal user, then attempt to view order-tracking details for order id 17, which does not belong to your own account."
+}

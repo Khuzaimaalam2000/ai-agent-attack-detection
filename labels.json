@@ -1,0 +1,1972 @@
+{
+  "attack_01": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794949415.4581
+  },
+  "attack_02": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794956282.2397702
+  },
+  "attack_03": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794956352.0952659
+  },
+  "attack_04": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794949575.6817112
+  },
+  "attack_05": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1794956489.0756989
+  },
+  "benign_01": {
+    "label": "benign",
+    "attack_start_step": null,
+    "attack_start_ts": null
+  },
+  "benign_02": {
+    "label": "benign",
+    "attack_start_step": null,
+    "attack_start_ts": null
+  },
+  "benign_03": {
+    "label": "benign",
+    "attack_start_step": null,
+    "attack_start_ts": null
+  },
+  "benign_04": {
+    "label": "benign",
+    "attack_start_step": null,
+    "attack_start_ts": null
+  },
+  "benign_05": {
+    "label": "benign",
+    "attack_start_step": null,
+    "attack_start_ts": null
+  },
+  "attack_06": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1794956556.4419827
+  },
+  "attack_07": {
+    "label": "attack",
+    "attack_start_step": 5,
+    "attack_start_ts": 1794956624.9279115
+  },
+  "attack_08": {
+    "label": "attack",
+    "attack_start_step": 7,
+    "attack_start_ts": 1794957623.574159
+  },
+  "attack_09": {
+    "label": "attack",
+    "attack_start_step": 8,
+    "attack_start_ts": 1794956752.3186681
+  },
+  "attack_10": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794957695.68469
+  },
+  "attack_11": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1794957758.6276746
+  },
+  "attack_12": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794956913.7915504
+  },
+  "attack_13": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1794956993.1431477
+  },
+  "attack_14": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794957081.8827157
+  },
+  "attack_15": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794957157.2317233
+  },
+  "benign_06": {
+    "label": "benign",
+    "attack_start_step": null,
+    "attack_start_ts": null
+  },
+  "benign_07": {
+    "label": "benign",
+    "attack_start_step": null,
+    "attack_start_ts": null
+  },
+  "benign_08": {
+    "label": "benign",
+    "attack_start_step": null,
+    "attack_start_ts": null
+  },
+  "benign_09": {
+    "label": "benign",
+    "attack_start_step": null,
+    "attack_start_ts": null
+  },
+  "benign_10": {
+    "label": "benign",
+    "attack_start_step": null,
+    "attack_start_ts": null
+  },
+  "benign_11": {
+    "label": "benign",
+    "attack_start_step": null,
+    "attack_start_ts": null
+  },
+  "benign_12": {
+    "label": "benign",
+    "attack_start_step": null,
+    "attack_start_ts": null
+  },
+  "benign_13": {
+    "label": "benign",
+    "attack_start_step": null,
+    "attack_start_ts": null
+  },
+  "benign_14": {
+    "label": "benign",
+    "attack_start_step": null,
+    "attack_start_ts": null
+  },
+  "benign_15": {
+    "label": "benign",
+    "attack_start_step": null,
+    "attack_start_ts": null
+  },
+  "attack_95": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794978356.759037,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_57": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1794975528.7742646,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_63": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794975925.1576185,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_51": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794975144.9852676,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_87": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_113": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794972275.478194,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_18": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794972824.2121358,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_44": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794974676.587623,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_94": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794978290.213695,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_21": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794973002.7333124,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_41": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794974472.1128929,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_71": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1794976526.8835602,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_89": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794977935.6181571,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_76": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1794976890.152883,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_32": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794973818.6874373,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_35": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794974043.3893685,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_19": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794972882.588508,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_17": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794972761.8863814,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_34": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794973958.6941864,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_110": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794972067.900859,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_49": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794975021.0622292,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_22": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794973059.9516861,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_92": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1794978147.878793,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_73": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1794976666.4590204,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_115": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794972395.327113,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_61": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1794975795.9953363,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_26": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794973335.306805,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_116": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794972454.2977743,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_31": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794973734.422748,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_103": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1794971585.1617756,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_43": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794974608.401148,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_25": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794973255.3358653,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_111": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1794972143.4006073,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_106": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794971801.4152532,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_16": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794972702.725176,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_109": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1794972000.6219852,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_101": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1794971431.8955395,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_53": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794975278.429837,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_112": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794972213.1738155,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_96": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1794978431.953463,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_105": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1794971734.7598586,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_91": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794978082.711509,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_84": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_40": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794974407.421253,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_47": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794974877.0856771,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_97": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1794978505.8917563,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_70": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1794976456.2410831,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_59": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1794975659.780626,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_86": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_117": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794972517.382534,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_75": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1794976811.2963276,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_24": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794973186.959126,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_100": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1794971342.2556984,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_28": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794973493.526216,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_27": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794973418.5789633,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_67": {
+    "label": "attack",
+    "attack_start_step": 10,
+    "attack_start_ts": 1794976234.399667,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_74": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1794976738.5041318,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_45": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794974746.4529269,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_55": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794975404.0080578,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_118": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794972578.9227428,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_58": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1794975591.6735744,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_79": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1794977130.5781047,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_77": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1794976964.9344952,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_33": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794973895.9603517,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_42": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794974544.8110242,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_46": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794974814.547977,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_65": {
+    "label": "attack",
+    "attack_start_step": 8,
+    "attack_start_ts": 1794976079.039556,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_85": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_23": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794973119.0062747,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_114": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794972334.1212156,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_80": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_69": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_30": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794973665.9764743,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_64": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1794975997.9257321,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_102": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1794971514.8680236,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_39": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794974326.609971,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_20": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794972940.6721597,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_107": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794971868.5438726,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_68": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1794976306.014816,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_88": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794977868.1342394,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_60": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1794975732.535064,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_37": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794974181.5182025,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_52": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794975207.2662232,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_62": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794975858.5559616,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_54": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794975341.7016947,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_29": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794973575.8532712,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_104": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1794971665.5620704,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_108": {
+    "label": "attack",
+    "attack_start_step": 5,
+    "attack_start_ts": 1794971934.5809107,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_56": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1794975466.846878,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_90": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794978014.573191,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_93": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794978223.0465314,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_119": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1794972640.1671464,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_81": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_99": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1794978665.236287,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_82": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_98": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1794978583.908266,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_48": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794974956.5263362,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_36": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794974117.3517475,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_50": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794975083.0516424,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_66": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1794976147.628947,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_72": {
+    "label": "attack",
+    "attack_start_step": 5,
+    "attack_start_ts": 1794976599.8188744,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_83": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_38": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1794974261.0024307,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_78": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1794977040.9737766,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_198": {
+    "label": "attack",
+    "attack_start_step": 5,
+    "attack_start_ts": 1795040446.1123497,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_144": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795037176.4262862,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_154": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795037862.5785522,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_164": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795038492.1809356,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_235": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795043129.1993973,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_209": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795041241.4712672,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_245": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795043745.2659645,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_141": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795036965.2609613,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_195": {
+    "label": "attack",
+    "attack_start_step": 8,
+    "attack_start_ts": 1795040241.87822,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_148": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795037450.6288958,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_172": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795038940.2154763,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_186": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1795039707.2205744,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_255": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1795044419.7991283,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_269": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795045199.147344,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_228": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795042723.182936,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_254": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1795044355.7805667,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_220": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_159": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795038189.2708004,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_217": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_123": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795035875.2349124,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_181": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795039442.3986206,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_223": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_182": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795039500.508645,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_260": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795044716.4055414,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_155": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795037945.2305756,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_230": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795042835.8570602,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_249": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795044028.252374,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_234": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795043069.3429193,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_271": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795045305.9869406,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_204": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795040892.4821978,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_267": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795045099.9696305,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_193": {
+    "label": "attack",
+    "attack_start_step": 5,
+    "attack_start_ts": 1795040102.8099062,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_246": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795043816.48443,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_207": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1795041099.1404693,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_165": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795038555.0760357,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_150": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795037582.8863525,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_129": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795036180.112075,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_178": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795039275.8934584,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_250": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795044083.3036122,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_244": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795043687.5465157,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_273": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795045411.7772062,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_183": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1795039552.2455041,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_226": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_170": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795038826.5528362,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_215": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1795041652.5266063,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_185": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1795039654.9194713,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_189": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1795039865.7694504,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_241": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795043503.3869781,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_199": {
+    "label": "attack",
+    "attack_start_step": 8,
+    "attack_start_ts": 1795040520.5738537,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_188": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1795039813.5510302,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_202": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795040737.7575598,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_224": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_135": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795036537.2125282,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_248": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795043944.8680139,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_274": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795045467.2587955,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_124": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795035922.2918625,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_258": {
+    "label": "attack",
+    "attack_start_step": 5,
+    "attack_start_ts": 1795044598.7699854,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_242": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795043577.307703,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_231": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1795042893.9913282,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_121": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795035773.7549796,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_162": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795038366.0830562,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_192": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795040034.4663835,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_161": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795038310.9747522,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_126": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795036031.2968504,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_142": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795037030.3239977,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_225": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_177": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795039218.5404384,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_134": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795036480.5845401,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_149": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795037527.5454814,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_196": {
+    "label": "attack",
+    "attack_start_step": 5,
+    "attack_start_ts": 1795040314.1479762,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_257": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1795044534.8589797,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_184": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1795039603.6238532,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_201": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1795040672.116559,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_203": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795040798.8057413,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_120": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795035719.5777526,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_239": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1795043366.9535744,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_229": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1795042779.2798955,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_275": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795045525.151986,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_232": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795042950.979124,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_266": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795045047.0723376,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_219": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_152": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795037726.4588788,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_259": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1795044655.3771675,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_190": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1795039923.11759,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_205": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795040952.0382566,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_236": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795043189.8376408,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_145": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795037235.8645053,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_140": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795036898.8988392,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_157": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795038068.0149236,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_222": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_137": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795036658.0297794,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_174": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795039052.624544,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_187": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1795039761.5422287,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_173": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795038996.7468038,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_131": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795036283.7615678,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_163": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795038428.6948433,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_138": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795036734.4057124,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_272": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795045357.0678403,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_264": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795044943.2487082,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_191": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1795039975.4900074,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_194": {
+    "label": "attack",
+    "attack_start_step": 6,
+    "attack_start_ts": 1795040166.774378,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_153": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795037794.0483232,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_262": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1795044824.8228712,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_213": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795041519.0104265,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_208": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795041173.94229,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_214": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795041583.573851,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_125": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795035978.2927632,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_167": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795038661.3940341,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_122": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795035822.1705155,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_132": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795036335.736282,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_251": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795044152.9492834,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_206": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795041031.4178355,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_252": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795044230.2679534,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_151": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795037655.0965972,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_143": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795037113.9464679,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_265": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795044993.9583929,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_130": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795036234.832845,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_270": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1795045256.4780793,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_212": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795041456.1309438,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_256": {
+    "label": "attack",
+    "attack_start_step": 1,
+    "attack_start_ts": 1795044473.408161,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_243": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795043631.6141145,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_247": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795043890.021181,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_197": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1795040377.812512,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_160": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795038256.3853447,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_156": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795038012.0670729,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_200": {
+    "label": "attack",
+    "attack_start_step": 5,
+    "attack_start_ts": 1795040584.0988247,
+    "category": "coupon_forgery",
+    "auto_labeled": true
+  },
+  "attack_268": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795045148.931932,
+    "category": "admin_bypass_direct",
+    "auto_labeled": true
+  },
+  "attack_179": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795039331.341618,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_139": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795036815.948046,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_238": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795043307.9872882,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_221": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_210": {
+    "label": "attack",
+    "attack_start_step": 4,
+    "attack_start_ts": 1795041319.5950966,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_127": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795036080.3738308,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_168": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795038717.0627735,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_233": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795043012.95798,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_166": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795038605.5521994,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_218": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_176": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795039165.0079582,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_263": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795044877.4410164,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_216": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_128": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795036132.0313635,
+    "category": "sqli_admin_bypass",
+    "auto_labeled": true
+  },
+  "attack_133": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795036398.0871353,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_136": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795036599.478698,
+    "category": "basket_idor",
+    "auto_labeled": true
+  },
+  "attack_240": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795043425.0219889,
+    "category": "feedback_deletion",
+    "auto_labeled": true
+  },
+  "attack_169": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795038771.8105903,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_180": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795039385.7262983,
+    "category": "path_traversal",
+    "auto_labeled": true
+  },
+  "attack_171": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795038882.442845,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_146": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795037322.3601832,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_261": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795044769.8939342,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  },
+  "attack_147": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795037393.3709917,
+    "category": "privilege_escalation",
+    "auto_labeled": true
+  },
+  "attack_237": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795043246.5112262,
+    "category": "password_reset_flaw",
+    "auto_labeled": true
+  },
+  "attack_227": {
+    "label": "attack",
+    "attack_start_step": null,
+    "attack_start_ts": null,
+    "category": "deluxe_bypass",
+    "auto_labeled": true
+  },
+  "attack_211": {
+    "label": "attack",
+    "attack_start_step": 3,
+    "attack_start_ts": 1795041383.7035363,
+    "category": "review_manipulation",
+    "auto_labeled": true
+  },
+  "attack_175": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795039104.8282924,
+    "category": "order_idor",
+    "auto_labeled": true
+  },
+  "attack_158": {
+    "label": "attack",
+    "attack_start_step": 0,
+    "attack_start_ts": 1795038131.8629377,
+    "category": "xss_search",
+    "auto_labeled": true
+  },
+  "attack_253": {
+    "label": "attack",
+    "attack_start_step": 2,
+    "attack_start_ts": 1795044289.8170338,
+    "category": "file_upload_abuse",
+    "auto_labeled": true
+  }
+}

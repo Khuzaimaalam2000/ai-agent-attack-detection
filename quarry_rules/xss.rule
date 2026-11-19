@@ -1,0 +1,6 @@
+rule "XSS Payload"
+metadata:
+    description = "Script injection markers in any tool call argument"
+condition:
+    any call in tool_calls where
+        call.arguments.* contains_any ["<script", "javascript:", "onerror=", "onload=", "<img src=x"]

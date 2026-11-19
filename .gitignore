@@ -1,0 +1,11 @@
+harness-venv/
+runs/
+quarry_input/
+quarry_results.json
+*.tar.gz
+__pycache__/
+*.pyc
+.DS_Store
+stepwise_dataset.csv
+pilot_dataset.csv
+run_new_trials.log

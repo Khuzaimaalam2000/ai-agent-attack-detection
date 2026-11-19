@@ -1,0 +1,7 @@
+rule "Suspicious File Upload"
+metadata:
+    description = "Upload to file-upload endpoint with a dangerous extension or traversal in the payload"
+condition:
+    any call in tool_calls where
+        call.arguments.path contains "file-upload" and
+        call.arguments.* contains_any [".exe", ".php", ".jsp", ".sh", "../"]

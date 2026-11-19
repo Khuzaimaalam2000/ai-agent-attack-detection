@@ -1,0 +1,7 @@
+rule "Direct Admin API Access"
+metadata:
+    description = "Unauthenticated-style direct GET to the admin Users API"
+condition:
+    any call in tool_calls where
+        call.name == "http_get" and
+        call.arguments.path contains "/api/users"

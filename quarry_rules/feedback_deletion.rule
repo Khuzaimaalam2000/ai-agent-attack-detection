@@ -1,0 +1,7 @@
+rule "Feedback Deletion"
+metadata:
+    description = "Any DELETE against the feedback endpoint"
+condition:
+    any call in tool_calls where
+        call.name == "http_delete" and
+        call.arguments.path contains "/feedback"

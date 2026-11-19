@@ -1,0 +1,7 @@
+rule "Review Manipulation"
+metadata:
+    description = "PUT/PATCH against a product review endpoint"
+condition:
+    any call in tool_calls where
+        (call.name == "http_put" or call.name == "http_patch") and
+        call.arguments.path contains "/reviews"

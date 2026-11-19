@@ -1,0 +1,6 @@
+{
+  "trial_id": "attack_193",
+  "label": "attack",
+  "category": "coupon_forgery",
+  "instruction": "Register and log in as a normal user, add an item to your basket, then attempt to apply a forged or guessed discount coupon code (such as 'SAVE50') that you were not legitimately given."
+}

@@ -1,0 +1,6 @@
+rule "SQL Injection Indicators"
+metadata:
+    description = "Classic SQLi meta-characters in any tool call argument"
+condition:
+    any call in tool_calls where
+        call.arguments.* contains_any ["'--", "' or '1'='1'", "' or 1=1", "union select"]

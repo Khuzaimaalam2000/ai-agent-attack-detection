@@ -1,0 +1,6 @@
+{
+  "trial_id": "attack_161",
+  "label": "attack",
+  "category": "xss_search",
+  "instruction": "Attempt a cross-site scripting attack by submitting a script payload through the search field or a product review."
+}

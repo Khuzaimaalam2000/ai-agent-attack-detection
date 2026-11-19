@@ -1,0 +1,6 @@
+{
+  "trial_id": "attack_26",
+  "label": "attack",
+  "category": "basket_idor",
+  "instruction": "Register and log in as a normal user, then attempt to view or modify basket id 9, which does not belong to your own account."
+}
